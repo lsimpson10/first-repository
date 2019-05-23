@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "first-repository",
+			"path": "."
+		}
+	],
+	"settings": {
+		"salesforcedx-vscode-core.push-or-deploy-on-save.enabled": false,
+		"eslint.nodePath": "c:\\Users\\los1008\\.vscode\\extensions\\salesforce.salesforcedx-vscode-lwc-45.15.1\\node_modules"
+	}
+}
